@@ -26,8 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-#install json-server
+#install json-server                                  
 npm install -g json-server
 
-#run server as a backend
+#run server as a backend                      
 json-server -p 5556 products.json
